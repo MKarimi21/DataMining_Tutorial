@@ -2,7 +2,7 @@ repository: mkarimi21/DataMining
 output: web
 topnav_title: DataMining
 site_title: DataMining
-company_name: Mostafa Karimi, 2021
+company_name: Mostafa Karimi
 description: Data Mining course for University of Bojnurd
 # Set to false to disable KaTeX math
 use_math: true
