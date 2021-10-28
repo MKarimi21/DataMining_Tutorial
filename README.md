@@ -43,17 +43,9 @@ This file will become your README and also the index of your documentation.
 Fill me in please! Don't forget code examples:
 
 ```python
-<div style="font-family:Vazir">
+
 
 ```
-
-
-      File "<ipython-input-5-aea9a6e298f2>", line 1
-        <div style="font-family:Vazir">
-        ^
-    SyntaxError: invalid syntax
-    
-
 
 <link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
 
