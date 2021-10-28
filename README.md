@@ -61,6 +61,8 @@ master import
 </div>
 
 <span style='font-family:XB Niloofar;font-size:16px'>
+
+<div dir='rtl'>
     
 # مرتب
 
@@ -103,8 +105,10 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 [ورد]: http://office.microsoft.com/en-us/word
 [چیز خیلی مزخرفی]: http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html
     
+
+</div>
     
- </span>
+</span>
 
 <span style='font-family:XB Niloofar;font-size:16px'>
     
