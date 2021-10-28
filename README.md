@@ -2,6 +2,22 @@
 
 
 
+```python
+
+from IPython.display import HTML
+from pathlib import Path
+
+css_rules = Path('./docs/style.css').read_text()
+HTML("<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>")
+```
+
+
+
+
+<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
+
+
+
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -27,18 +43,22 @@ This file will become your README and also the index of your documentation.
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+<div style="font-family:Vazir">
+
 ```
 
 
+      File "<ipython-input-5-aea9a6e298f2>", line 1
+        <div style="font-family:Vazir">
+        ^
+    SyntaxError: invalid syntax
+    
 
 
-    2
+<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
 
-
-
-
-
+<div style="font-family:Vazir">
+    
 + مورد اول
 1. مورد اول
     
@@ -46,6 +66,7 @@ Fill me in please! Don't forget code examples:
 - [X] بعد ترش
     
 
+</div>
 
 <div dir='ltr'>
     
