@@ -26,10 +26,11 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```python
+<div class='font_Vazir'>
+    
+متن مصطفی برای فونت تست
 
-
-```
+</div>
 
 
 
