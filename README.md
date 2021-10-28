@@ -65,11 +65,9 @@ master import
 
 
 
+<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
 
-
-<span style='font-family:Vazir;font-size:16px'>
-
-<div dir='rtl'>
+<div dir='rtl' lang='fa-IR' style='font-family:Vazir;font-size:16px'>
     
 # مرتب
 
@@ -112,29 +110,23 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 [ورد]: http://office.microsoft.com/en-us/word
 [چیز خیلی مزخرفی]: http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html
     
-
 </div>
-    
-</span>
 
 
 
 
-<span style='font-family:Vazir;font-size:16px'>
-    
-<div dir='rtl' lang='fa-IR'>
+----
+
+<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
+
+<div dir='rtl' lang='fa-IR' style='font-family:Vazir'>   
     
 # مصطفی
-
-
-
     
-</div>
+</div> 
     
-<span style="font-weight:100">
+<div dir='ltr' style="font-family:Vazir;font-weight:100">
     
 مردانه به سوی شتابان
 
-</span>
-
-</span>
+</div>
