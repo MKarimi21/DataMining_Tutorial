@@ -2,22 +2,6 @@
 
 
 
-```python
-
-from IPython.display import HTML
-from pathlib import Path
-
-css_rules = Path('./docs/style.css').read_text()
-HTML("<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>")
-```
-
-
-
-
-<link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
-
-
-
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -47,6 +31,8 @@ Fill me in please! Don't forget code examples:
 
 ```
 
+
+
 <link href='https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css' rel='stylesheet' type='text/css'>
 
 <div style="font-family:Vazir">
@@ -60,6 +46,7 @@ Fill me in please! Don't forget code examples:
 
 </div>
 
+
 <div dir='ltr'>
     
     master
@@ -71,9 +58,16 @@ master import
 ```
    
     
+
 </div>
 
-<span style='font-family:XB Niloofar;font-size:16px'>
+
+
+
+
+
+
+<span style='font-family:Vazir;font-size:16px'>
 
 <div dir='rtl'>
     
@@ -123,7 +117,10 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
     
 </span>
 
-<span style='font-family:XB Niloofar;font-size:16px'>
+
+
+
+<span style='font-family:Vazir;font-size:16px'>
     
 <div dir='rtl' lang='fa-IR'>
     
@@ -134,6 +131,10 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
     
 </div>
     
-مردانه به سوی شتابان  
+<span style="font-weight:100">
+    
+مردانه به سوی شتابان
+
+</span>
 
 </span>
