@@ -2,6 +2,8 @@
 
 
 
+
+
 <div style="font-family:Vazir;">
     
 <h1 align='center'>
@@ -28,7 +30,7 @@ ___
 
 </p>
 
-</div>
+
 
 
 <div dir="rtl" style="font-family:Vazir;font-weight:100">
@@ -41,8 +43,7 @@ ___
 ----
 
 
-</br>
-</br>
+
 
 #### Any Question:
 
