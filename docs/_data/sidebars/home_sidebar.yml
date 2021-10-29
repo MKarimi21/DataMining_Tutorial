@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: DataMining
+      title: Title
       url: core.html
     output: web
     title: DataMining_Tutorial
