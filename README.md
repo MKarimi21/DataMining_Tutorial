@@ -133,7 +133,8 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 </div>
 
 ----
-1.
+
+#### Any Question:
 
 <script src="https://utteranc.es/client.js"
         repo="mkarimi21/datamining_tutorial"
@@ -144,57 +145,4 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
         async>
 </script>
 
-2.
 
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="url"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-3.
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="title"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-4.
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="og:title"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-5.
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-number="[ENTER ISSUE NUMBER HERE]"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-6.
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="[ENTER TERM HERE]"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
