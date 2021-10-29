@@ -131,3 +131,13 @@ $$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 مردانه به سوی شتابان
 
 </div>
+
+----
+
+<script src="https://utteranc.es/client.js"
+        repo="DataMining_Tutorial"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
