@@ -47,7 +47,7 @@ ____
 
 <br>
 
-<div style="text-align:'center'" class="btn-group" role="group" aria-label="Basic example">
+<div style="text-align:center;" class="btn-group" role="group" aria-label="Basic example">
     
   <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Email </a> 
   <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> LinkedIn </a>
