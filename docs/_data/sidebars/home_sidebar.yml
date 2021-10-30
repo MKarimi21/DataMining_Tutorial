@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Data Mining
+      title: Index
       url: core.html
     - output: web,pdf
       title: '01 Season01: Introduction'
