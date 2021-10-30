@@ -13,15 +13,17 @@ sidebar: home_sidebar
   <a href="https://mkarimi21.ir/">
     <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=Black&eyeType=Wink&eyebrowType=Default&mouthType=Smile&skinColor=Light' width="100" height="100">
   </a>
+  <br>  
+  <a href="https://www.MKarimi21.ir" target="_blank" style="display:inline-flex"><img src="https://img.shields.io/badge/Create--by-MKarimi-red?style=flat-square" target="_blank"></a>  
 </p>
-<h3 align="center">Hi, I'm Mostafa Karimi &nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"> ✌🏻</h3> 
-</br>
+<h3 style="font-size:200%;" align="center">Hi, I'm Mostafa Karimi ✌🏻</h3> 
+<br>
 
 
 
 <details align="center">
 <summary>
-<b>♠️ About Me! </b>
+<b>♠️ About Me! 👇🏻🤟🏻</b>
 </summary>
 <p align="center">
   
@@ -44,16 +46,35 @@ sidebar: home_sidebar
 -----
 
 </details>
-
+<br>
+<br>
 <details align="center">
 <summary>
-<b>📌 Any Question: </b>
+<b>📌 Any Question: 👇🏻🤟🏻</b>
 </summary>
 
-* 📧 [Email](mailto:mkarimi21@hotmail.com),
-* 🔗 [LinkedIn](https://www.linkedin.com/in/mkarimi21/), 
+# 📧 [Email](mailto:mkarimi21@hotmail.com),
+  🔗 [LinkedIn](https://www.linkedin.com/in/mkarimi21/), 
 * 💙 [Telegram](https://telegram.me/mkarimi21). 
+    
+<button type="button" class="btn btn-primary btn-sm">Small button</button>
+<button type="button" class="btn btn-secondary btn-sm">Small button</button>
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
+<a href="#" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Link</a>    
 
+<br>
+<b><i>Or</i></b>
+    
+<br>
+
+<script src="https://utteranc.es/client.js"
+        repo="mkarimi21/datamining_tutorial"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 </details>
 
@@ -65,15 +86,4 @@ sidebar: home_sidebar
 
 -----
 
-<br>
-<br>
 
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
