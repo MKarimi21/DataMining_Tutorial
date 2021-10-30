@@ -47,21 +47,23 @@ ____
 
 <br>
 
-<div style="text-align: center;" class="btn-group" role="group" aria-label="Basic example">
-    
-  <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Email </a> 
-  <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> LinkedIn </a>
-    <a href="https://github.com/MKarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> GitHub </a>
-  <a href="https://telegram.me/mkarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Telegram </a>
-  <a href="https://twitter.com/mkarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Twitter </a>
-    
+<div class="btn-group" role="group" aria-label="Basic example">
+  <p align="center">  
+      
+      <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Email </a> 
+      <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> LinkedIn </a>
+        <a href="https://github.com/MKarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> GitHub </a>
+      <a href="https://telegram.me/mkarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Telegram </a>
+      <a href="https://twitter.com/mkarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Twitter </a>
+      
+   </p>
    
 </div>
 
 <br>
 
 
-<b>♻️<i>Or: </i></b>👇🏻🤟🏻
+<b>♻️<i> Or: </i></b>👇🏻🤟🏻
     
 <br>
 
