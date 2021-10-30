@@ -13,7 +13,7 @@ entries:
       title: Index
       url: core.html
     - output: web,pdf
-      title: Title
+      title: '01. Season 01: Introduction'
       url: Season01_Introduction.html
     output: web
     title: DataMining_Tutorial
