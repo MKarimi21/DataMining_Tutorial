@@ -22,7 +22,7 @@ sidebar: home_sidebar
 
 
 
-<b><i>♠️ About Me! 👇🏻🤟🏻</i></b>
+<b>♠️<i> About Me! </i></b>👇🏻🤟🏻
 
 <p align="center">
   
@@ -45,10 +45,10 @@ sidebar: home_sidebar
 <br>
 <br>
 
-<b><i>📌 Any Question: 👇🏻🤟🏻 </i></b>
+<b>📌<i> Any Question: </i></b>👇🏻🤟🏻 
 
 
-<div class="btn-group" role="group" aria-label="Basic example">
+<div class="btn-group" role="group" aria-label="Basic example" dir="center">
   <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Email </a> 
   <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-secondary btn-sm" target="_blank" role="button" aria-pressed="true"> LinkedIn </a>
     <a href="https://github.com/MKarimi21" class="btn btn-secondary btn-sm" target="_blank" role="button" aria-pressed="true"> GitHub </a>
@@ -57,9 +57,11 @@ sidebar: home_sidebar
     
   
   
+</div>
 
 <br>
-<b><i>Or</i></b>
+<br>
+<b>♾<i>Or: </i></b>👇🏻🤟
     
 <br>
 
@@ -71,11 +73,6 @@ sidebar: home_sidebar
         crossorigin="anonymous"
         async>
 </script>
-
-
-
-
-
 
 
 
