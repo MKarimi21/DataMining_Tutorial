@@ -21,10 +21,9 @@ sidebar: home_sidebar
 
 
 
-<details align="center">
-<summary>
-<b>♠️ About Me! 👇🏻🤟🏻</b>
-</summary>
+
+<b><i>♠️ About Me! 👇🏻🤟🏻</i></b>
+
 <p align="center">
   
 <br>
@@ -42,35 +41,22 @@ sidebar: home_sidebar
 
 -----
 
-</details>
+
 <br>
 <br>
-<details align="center">
-<summary>
-<b>📌 Any Question: 👇🏻🤟🏻</b>
-</summary>
+
+<b><i>📌 Any Question: 👇🏻🤟🏻 </i></b>
+
 
 <div class="btn-group" role="group" aria-label="Basic example">
   <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Email </a> 
   <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-secondary btn-sm" target="_blank" role="button" aria-pressed="true"> LinkedIn </a>
+    <a href="https://github.com/MKarimi21" class="btn btn-secondary btn-sm" target="_blank" role="button" aria-pressed="true"> GitHub </a>
   <a href="https://telegram.me/mkarimi21" class="btn btn-secondary btn-sm" target="_blank" role="button" aria-pressed="true"> Telegram </a>
   <a href="https://twitter.com/mkarimi21" class="btn btn-primary btn-sm" target="_blank" role="button" aria-pressed="true"> Twitter </a>
     
-    
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
-</div>    
-    
-    
-# 📧 [Email](mailto:mkarimi21@hotmail.com),
-  🔗 [LinkedIn](https://www.linkedin.com/in/mkarimi21/), 
-* 💙 [Telegram](https://telegram.me/mkarimi21). 
-    
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
-<button type="button" class="btn btn-secondary btn-sm">Small button</button>
-<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
-<a href="#" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Link</a>    
+  
+  
 
 <br>
 <b><i>Or</i></b>
@@ -86,7 +72,7 @@ sidebar: home_sidebar
         async>
 </script>
 
-</details>
+
 
 
 
