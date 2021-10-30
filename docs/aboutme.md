@@ -53,6 +53,19 @@ sidebar: home_sidebar
 <b>📌 Any Question: 👇🏻🤟🏻</b>
 </summary>
 
+<div class="btn-group" role="group" aria-label="Basic example">
+  <a href="mailto:mkarimi21@hotmail.com" class="btn btn-primary btn-lg active" role="button" aria-pressed="true"> Email </a> 
+  <a href="https://www.linkedin.com/in/mkarimi21/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true"> LinkedIn </a>
+  <a href="https://telegram.me/mkarimi21" class="btn btn-primary btn-lg active" role="button" aria-pressed="true"> Telegram </a>
+  <a href="https://twitter.com/mkarimi21" class="btn btn-primary btn-lg active" role="button" aria-pressed="true"> https://img.shields.io/twitter/follow/MKarimi21?label=Follow&style=social </a>
+    
+    
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>    
+    
+    
 # 📧 [Email](mailto:mkarimi21@hotmail.com),
   🔗 [LinkedIn](https://www.linkedin.com/in/mkarimi21/), 
 * 💙 [Telegram](https://telegram.me/mkarimi21). 

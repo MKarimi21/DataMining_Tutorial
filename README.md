@@ -21,14 +21,14 @@ ___
 
 <div dir="rtl" style="font-family:Vazir;" >
 <br>    
-<p>
+
 
 این دوره در حال ایجاد و بروز رسانی می‌باشد.
 
 از صبر و شکیبایی شما سپاس گزاریم
 
-</p>
-</div>
+
+
 
 
 <div dir="rtl" style="font-family:Vazir;font-weight:100">
