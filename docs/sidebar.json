@@ -1,6 +1,7 @@
 {
   "DataMining_Tutorial": {
     "Overview": "/",
-    "Data Mining": "core.html"
+    "Data Mining": "core.html",
+    "01 Season01: Introduction": "Season01_Introduction.html"
   }
 }
