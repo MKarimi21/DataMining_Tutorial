@@ -50,20 +50,13 @@ ___
 </div>
 
 
-----
 
+<div dir="rtl" style="font-family:Vazir;" >
+<br>    
 
+<p class="text-justify">
 
-
-#### Any Question:
-
-<script src="https://utteranc.es/client.js"
-        repo="mkarimi21/datamining_tutorial"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-
+این صفحه برای نمایش توضیحاتی پیرامون دوره و مواردی که نیاز مند هست تا دانسته شود. به همین منظور برای شروع دوره در مرورگرهای سیستم عاملتون در سمت چپ بالا فهرستی وجود دارد و در تلفن همراه بالاترین منویی با عنوان DataMining_Tutorial وجود دارد و با فشار دادن آن منوی آبشاری ای که شامل Index برای فهرست فصل‌ها و صفحه‌های فصول در آن قرار داده شده است.    
+    
+</p>  
+    
